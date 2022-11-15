@@ -20,7 +20,7 @@
 					<h1  class="" style="color: #ffffff;" >INNOVATIVE, EFFICIENT & PROFESSIONAL</h1>
 					<p class="d-none d-lg-block"  style="color: #ffffff;">We are an innovative company bounded by top-notch professionalism and driven to deliver quality products/services.</p>
 					<div>
-					<a href="#" data-offset="120" class="btn btn-success">Explore our sites <span class="ml-2 fas fa-long-arrow-right"></span></a>
+					<a class="d-none d-md-block" href="#" data-offset="120" class="btn btn-success">Explore our sites <span class="ml-2 fas fa-long-arrow-right"></span></a>
 					</div>
 				</div>
 				</div>
@@ -30,7 +30,7 @@
 					<h1  class="" style="color: #ffffff;">INNOVATIVE, EFFICIENT & PROFESSIONAL</h1>
 					<p class="d-none d-lg-block"   style="color: #ffffff;">We are an innovative company bounded by top-notch professionalism and driven to deliver quality products/services.</p>
 					<div >
-					<a href="#" data-offset="120" class="btn btn-success">Explore our sites <span class="ml-2 fas fa-long-arrow-right"></span></a>
+					<a class="d-none d-md-block" href="#" data-offset="120" class="btn btn-success">Explore our sites <span class="ml-2 fas fa-long-arrow-right"></span></a>
 					</div>
 				</div>
 				</div>
@@ -40,7 +40,7 @@
 					<h1  class="" style="color: #ffffff;">INNOVATIVE, EFFICIENT & PROFESSIONAL</h1>
 					<p class="d-none d-lg-block"   style="color: #ffffff;">We are an innovative company bounded by top-notch professionalism and driven to deliver quality products/services.</p>
 					<div>
-					<a href="#" data-offset="120" class="btn btn-success">Explore our sites <span class="ml-2 fas fa-long-arrow-right"></span></a>
+					<a class="d-none d-md-block" href="#" data-offset="120" class="btn btn-success">Explore our sites <span class="ml-2 fas fa-long-arrow-right"></span></a>
 					</div>
 				</div>
 				</div>
