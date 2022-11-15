@@ -69,14 +69,15 @@
 								<div class="fbox-media overlay2" style="transform: none;">
 									<img src="images/billboard.png" alt="Why choose Us?">
 									<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color:#ffffff; font-size:1.25rem;">BILLBOARDS</div>
-								</div>
-								<div class="overlay" >
+									<div class="overlay" >
 									<div class="text">
 									 <!-- <h1 style="color: #ffffff;">BILLBOARDS</h1> -->
 									 <!--Our Out Of Home Formats are strategically placed nationwide reaching our clients target audience efficiently and effectively. -->
 									 <a href="404" data-offset="120" class="btn btn-success">Learn more</a>
 									</div>
 								</div>
+								</div>
+								
 							</div>
 						</div>
 
@@ -85,14 +86,15 @@
 								<div class="fbox-media">
 									<img src="images/media.png" alt="Why choose Us?">
 									<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color:#ffffff; font-size:1.25rem;">MEDIA BUYING</div>
-								</div>
-								<div class="overlay" >
+									<div class="overlay" >
 									<div class="text">
 										<!-- <h1 style="color: #ffffff;">MEDIA BUYING</h1>
 										We consult for brands looking at changing their entire brand outlook as well as implementing brand activation campaigns for our clients. -->
 									    <a href="404" data-offset="120" class="btn btn-success">Learn more</a>
 									</div>
 								</div>
+								</div>
+								
 							</div>
 						</div>
 
@@ -101,14 +103,15 @@
 								<div class="fbox-media">
 									<img src="images/branding.png" alt="Why choose Us?">
 									<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color:#ffffff; font-size:1.25rem;">BRANDING &amp; ACTIVATIONS</div>
-								</div>
-								<div class="overlay" >
+									<div class="overlay" >
 									<div class="text"> 
 										<!-- <h1 style="color: #ffffff;">BRANDING &amp; ACTIVATIONS</h1>
 										We believe in delivering value hence our utmost investment in our clients campaign process from inception to end. -->
 									    <a href="404" data-offset="120" class="btn btn-success">Learn more</a>
 									</div>
 								</div>
+								</div>
+								
 							</div>
 						</div>
 
@@ -117,14 +120,15 @@
 								<div class="fbox-media">
 									<img src="images/campaign.png" alt="Why choose Us?">
 									<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color:#ffffff; font-size:1.25rem;">CAMPAIGN DEVELOPMENT</div>
-								</div>
-								<div class="overlay" >
+									<div class="overlay" >
 									<div class="text">
 										<!-- <h1 style="color: #ffffff;">CAMPAIGN DEVELOPMENT</h1>
 										 Our Out Of Home Formats are strategically placed nationwide reaching our clients target audience efficiently and effectively. -->
 										 <a href="404" data-offset="120" class="btn btn-success">Learn more</a>
 										</div>
 								</div>
+								</div>
+								
 							</div>
 						</div>
 					</div>
