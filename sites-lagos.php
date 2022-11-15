@@ -166,7 +166,7 @@
 						<div class="entry col-lg-3 col-md-4 col-sm-6 col-12">
 							<div class="grid-inner">
 								<div class="entry-image clearfix">
-                                <a data-toggle="modal" data-target="#myModal4" data-lightbox="image"><img src="images/sites/eko-hotel.png" alt="Standard Post with Image"></a>
+                                <a data-toggle="modal" data-target="#myModal4" data-lightbox="image"><img src="images/sites/Eko-hotel.png" alt="Standard Post with Image"></a>
 								</div>
 								<div class="entry-title">
 									<h2><a data-toggle="modal" data-target="#myModal4">Eko hotel road</a></h2>
