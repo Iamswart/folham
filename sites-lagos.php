@@ -18,20 +18,23 @@
 
     <div class="container clearfix">
         <h1>Our Lagos state sites</h1>
-        <!-- <span>Our Latest News in Grid Layout</span> -->
         </div>
     </div>
     
 </section><!-- #page-title end -->
+
+<section class="folham-map">
+	<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ap4tjQ7mpVB2Sr6Uaa_NpsLdnKts3D0&ehbc=2E312F" width="640" height="480" frameborder="0" style="border:0; margin-top: -55px;"></iframe>
+</section>
 
 
 
 <section id="content">
 			<div class="content-wrap">
 				<div class="container clearfix">
-
 					<!-- Posts
 					============================================= -->
+					
 					<div id="posts" class="post-grid row grid-container gutter-30" data-layout="fitRows">
 
 						<div class="entry col-lg-3 col-md-4 col-sm-6 col-12" >
@@ -297,6 +300,7 @@
 						
 
 					</div><!-- #posts end -->
+					
 
 					<!-- Pagination
 					============================================= -->
