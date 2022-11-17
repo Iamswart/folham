@@ -39,7 +39,7 @@
 
 section.folham-map {
   width:100%;
-  height:100%;
+  height: 100%;
   overflow:hidden;
 }
 
@@ -50,7 +50,6 @@ section.folham-map {
 
   
 }
-
 
 @media (min-width: 768px) {
   .carousel-caption {
