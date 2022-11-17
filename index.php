@@ -182,7 +182,7 @@
 				<div class="container clearfix" style="margin-top: 50px;">
 
 					<div class="heading-block center">
-						<h4 style="color: #192653;" >Our Projects</h4>
+						<h4 >Our Projects</h4>
 					</div>
 
 					<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
