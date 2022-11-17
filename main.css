@@ -47,7 +47,10 @@ section.folham-map {
   .carousel-caption {
     margin-bottom: 100px;
   }
+
+  
 }
+
 
 @media (min-width: 768px) {
   .carousel-caption {

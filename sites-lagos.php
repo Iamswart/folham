@@ -24,7 +24,7 @@
 </section><!-- #page-title end -->
 
 <section class="folham-map">
-	<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ap4tjQ7mpVB2Sr6Uaa_NpsLdnKts3D0&ehbc=2E312F" width="640" height="250" frameborder="0" style="border:0; margin-top: -55px;"></iframe>
+	<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ap4tjQ7mpVB2Sr6Uaa_NpsLdnKts3D0&ehbc=2E312F" width="640" height="350" frameborder="0" style="border:0; margin-top: -55px;"></iframe>
 </section>
 
 
