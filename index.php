@@ -179,6 +179,55 @@
 				</div>
 
 
+				<div class="container clearfix" style="margin-top: 50px;">
+
+					<div class="heading-block center">
+						<h4 style="color: #192653;" >Our Projects</h4>
+					</div>
+
+					<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+						<img class="d-block w-100" src="images/sites/Eko-hotel.png" alt="Third slide">
+						</div>
+						<div class="carousel-item">
+						<img class="d-block w-100" src="images/sites/oniru3.png" alt="Third slide">
+						</div>
+						<div class="carousel-item">
+						<img class="d-block w-100" src="images/sites/airport.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+						<img class="d-block w-100" src="images/sites/akinadesola.png" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+						<img class="d-block w-100" src="images/sites/ilupeju.jpg" alt="Third slide">
+						</div>
+					</div>
+					<!-- <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+						<span class="carousel-control-next-icon" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
+					</a> -->
+					</div>
+
+					<!-- <div id="oc-clients" class="owl-carousel image-carousel carousel-widget" data-margin="60" data-loop="true" data-nav="false" data-autoplay="2000" data-pagi="false" data-items-xs="2" data-items-sm="3" data-items-md="4" data-items-lg="5" data-items-xl="6">
+
+						<div class="oc-item"><a href="#"><img src="images/sites/airport.jpg" alt="Clients"></a></div>
+						<div class="oc-item"><a href="#"><img src="images/sites/airport.jpg" alt="Clients"></a></div>
+						<div class="oc-item"><a href="#"><img src="images/sites/airport.jpg" alt="Clients"></a></div>
+						<div class="oc-item"><a href="#"><img src="images/sites/airport.jpg" alt="Clients"></a></div>
+						<div class="oc-item"><a href="#"><img src="images/sites/airport.jpg" alt="Clients"></a></div>
+					
+						
+
+					</div> -->
+
+
+				</div>
+
 
 				
 				<div class="container clearfix" style="margin-top: 50px;">
