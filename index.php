@@ -14,7 +14,7 @@
 		<section id="slider" >
 			<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
 			<div class="carousel-inner">
-				<div class="carousel-item active">
+				<div class="carousel-item folham-bg active">
 				<img class="d-block w-100" src="images/slider/swiper/folham-bg3.png" alt="First slide">
 				<div class="carousel-caption">
 					<h1  class="" style="color: #ffffff;" >INNOVATIVE, EFFICIENT & PROFESSIONAL</h1>
@@ -24,7 +24,7 @@
 					</div>
 				</div>
 				</div>
-				<div class="carousel-item">
+				<div class="carousel-item folham-bg">
 				<img class="d-block w-100" src="images/slider/swiper/folham-bg1.png" alt="Second slide">
 				<div class="carousel-caption" >
 					<h1  class="" style="color: #ffffff;">INNOVATIVE, EFFICIENT & PROFESSIONAL</h1>
@@ -34,7 +34,7 @@
 					</div>
 				</div>
 				</div>
-				<div class="carousel-item">
+				<div class="carousel-item folham-bg">
 				<img class="d-block w-100" src="images/slider/swiper/folham-bg2.png" alt="Third slide">
 				<div class="carousel-caption">
 					<h1  class="" style="color: #ffffff;">INNOVATIVE, EFFICIENT & PROFESSIONAL</h1>

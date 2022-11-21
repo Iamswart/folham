@@ -72,8 +72,7 @@ section.folham-map {
 
 
 @media (max-width: 768px){
-  .carousel-inner .carousel-item img {
+  .carousel-inner .folham-bg img {
     height: 850px;
   }
-}
 }
