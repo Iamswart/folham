@@ -15,31 +15,31 @@
 			<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-				<img class="d-block w-100" src="images/slider/swiper/folham-bg1.png" alt="First slide">
+				<img class="d-block w-100" src="images/slider/swiper/folham-bg3.png" alt="First slide">
 				<div class="carousel-caption">
 					<h1  class="" style="color: #ffffff;" >INNOVATIVE, EFFICIENT & PROFESSIONAL</h1>
-					<p class="d-none d-lg-block"  style="color: #ffffff;">We are an innovative company bounded by top-notch professionalism and driven to deliver quality products/services.</p>
-					<div class="d-none d-md-block">
+					<p class=""  style="color: #ffffff;">We are an innovative company bounded by top-notch professionalism and driven to deliver quality products/services.</p>
+					<div class="">
 					<a href="#" data-offset="120" class="btn btn-success">Explore our sites <span class="ml-2 fas fa-long-arrow-right"></span></a>
 					</div>
 				</div>
 				</div>
 				<div class="carousel-item">
-				<img class="d-block w-100" src="images/slider/swiper/folham-bg2.png" alt="Second slide">
+				<img class="d-block w-100" src="images/slider/swiper/folham-bg1.png" alt="Second slide">
 				<div class="carousel-caption" >
 					<h1  class="" style="color: #ffffff;">INNOVATIVE, EFFICIENT & PROFESSIONAL</h1>
-					<p class="d-none d-lg-block"   style="color: #ffffff;">We are an innovative company bounded by top-notch professionalism and driven to deliver quality products/services.</p>
-					<div class="d-none d-md-block">
+					<p class=""   style="color: #ffffff;">We are an innovative company bounded by top-notch professionalism and driven to deliver quality products/services.</p>
+					<div class="">
 					<a href="#" data-offset="120" class="btn btn-success">Explore our sites <span class="ml-2 fas fa-long-arrow-right"></span></a>
 					</div>
 				</div>
 				</div>
 				<div class="carousel-item">
-				<img class="d-block w-100" src="images/slider/swiper/folham2.jpeg" alt="Third slide">
+				<img class="d-block w-100" src="images/slider/swiper/folham-bg2.png" alt="Third slide">
 				<div class="carousel-caption">
 					<h1  class="" style="color: #ffffff;">INNOVATIVE, EFFICIENT & PROFESSIONAL</h1>
-					<p class="d-none d-lg-block"   style="color: #ffffff;">We are an innovative company bounded by top-notch professionalism and driven to deliver quality products/services.</p>
-					<div class="d-none d-md-block">
+					<p class=""   style="color: #ffffff;">We are an innovative company bounded by top-notch professionalism and driven to deliver quality products/services.</p>
+					<div class="">
 					<a href="#" data-offset="120" class="btn btn-success">Explore our sites <span class="ml-2 fas fa-long-arrow-right"></span></a>
 					</div>
 				</div>
@@ -136,7 +136,11 @@
 
 
 				<div class="container" id="section-about">
+					<div class="heading-block center mb-5" style="margin-top: 20px;">
+						<h1>WHO <span>WE</span> ARE</h1>
+					</div>
 					<div class="row align-items-center">
+						
 
 						<div class="col-lg-6 align-self-end">
 
@@ -150,7 +154,6 @@
 						<div class="col-lg-6">
 							
 								<!-- <h4 style="color: #1A9D48;">WHO <span>WE</span> ARE</h4> -->
-								<h1 style="margin-top: 20px;">WHO <span>WE</span> ARE</h1>
 							
 							<p>Since 1984, Folham has used its outdoor advertising expertise to help companies of every size reach out to their current and potential customers. To compete in the fast growing industry, we keep modernizing our operations by introducing new products offerings in the OOH space, these products range from Digital LED Billboards, to "Human Walking" billboards which are popular for creating awareness for brands during activations and other formal /informal events.
 							</p>

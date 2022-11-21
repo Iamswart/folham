@@ -56,3 +56,24 @@ section.folham-map {
     margin-bottom: 150px;
   }
 }
+
+@media (max-width: 768px) {
+  .carousel-caption {
+    margin-bottom: 150px;
+  }
+}
+
+@media (max-width: 768px){
+  #logo img {
+    max-height: 70%;
+    margin-top: 10px;
+}
+}
+
+
+@media (max-width: 768px){
+  .carousel-inner .carousel-item img {
+    height: 850px;
+  }
+}
+}
