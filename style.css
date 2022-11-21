@@ -7577,7 +7577,7 @@ body:not(.device-touch) .portfolio {
 	display: block;
 	position: relative;
 	width: 100%;
-	height: auto;
+	height: 128px;
 }
 
 .posts-sm .entry-image {

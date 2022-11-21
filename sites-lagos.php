@@ -14,30 +14,35 @@
 
 <!-- Page Title
 		============================================= -->
-<section id="page-title">
+<!-- <section id="page-title">
 
     <div class="container clearfix">
         <h1>Our Lagos state sites</h1>
         </div>
     </div>
     
-</section><!-- #page-title end -->
+</section> -->
+<!-- #page-title end -->
 
-<section class="folham-map">
-	<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ap4tjQ7mpVB2Sr6Uaa_NpsLdnKts3D0&ehbc=2E312F" width="640" height="250" frameborder="0" style="border:0; margin-top: -55px;"></iframe>
-</section>
+<div class="map-place">
 
-
-
-<section id="content" style="margin-bottom: -200px;">
+	
+	
+	<section class="folham-map" style="margin-top: 75px;">
+		<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ap4tjQ7mpVB2Sr6Uaa_NpsLdnKts3D0&ehbc=2E312F" width="640" height="500" frameborder="0" style="border:0; margin-top: -55px;"></iframe>
+	</section>
+		
+		
+		
+		<section id="content" style=" height: 500px; overflow-y: auto;">
 			<div class="content-wrap">
 				<div class="container clearfix">
 					<!-- Posts
 					============================================= -->
 					
 					<div id="posts" class="post-grid row grid-container gutter-30" data-layout="fitRows">
-
-						<div class="entry col-lg-3 col-md-4 col-sm-6 col-12" >
+						
+						<div class="entry col-sm-6" >
 							<div class="grid-inner">
 								<div class="entry-image">
 									<a data-toggle="modal" data-target="#myModal" data-lightbox="image"><img src="images/sites/akinadesola.png" alt="Standard Post with Image"></a>
@@ -78,7 +83,7 @@
 
 						</div>
 
-						<div class="entry col-lg-3 col-md-4 col-sm-6 col-12">
+						<div class="entry col-sm-6">
 							<div class="grid-inner">
 								<div class="entry-image">
                                 <a data-toggle="modal" data-target="#myModal2" data-lightbox="image"><img src="images/sites/eko.png" alt="Standard Post with Image"></a>
@@ -118,7 +123,7 @@
 							</div>
 						</div>
 
-						<div class="entry col-lg-3 col-md-4 col-sm-6 col-12">
+						<div class="entry col-sm-6">
 							<div class="grid-inner">
 								<div class="entry-image">
 									<div class="fslider" data-arrows="false" data-lightbox="gallery">
@@ -166,10 +171,10 @@
 							</div>
 						</div>
 
-						<div class="entry col-lg-3 col-md-4 col-sm-6 col-12">
+						<div class="entry col-sm-6 ">
 							<div class="grid-inner">
 								<div class="entry-image clearfix">
-                                <a data-toggle="modal" data-target="#myModal4" data-lightbox="image"><img src="images/sites/Eko-hotel.png" alt="Standard Post with Image"></a>
+                                <a data-toggle="modal" data-target="#myModal4" data-lightbox="image" ><img src="images/sites/Eko-hotel.png" alt="Standard Post with Image"></a>
 								</div>
 								<div class="entry-title">
 									<h2><a data-toggle="modal" data-target="#myModal4">Eko hotel road</a></h2>
@@ -206,7 +211,7 @@
 							</div>
 						</div>
 
-                        <div class="entry col-lg-3 col-md-4 col-sm-6 col-12">
+                        <div class="entry col-sm-6 ">
 							<div class="grid-inner">
 								<div class="entry-image">
 									<div class="fslider" data-arrows="false" data-lightbox="gallery">
@@ -254,10 +259,10 @@
 						</div>
 
 
-                        <div class="entry col-lg-3 col-md-4 col-sm-6 col-12">
+                        <div class="entry col-sm-6">
 							<div class="grid-inner">
                                 <div class="entry-image clearfix">
-                                <a data-toggle="modal" data-target="#myModal6" data-lightbox="image"><img src="images/sites/airport.jpg" alt="Standard Post with Image"></a>
+                                <a data-toggle="modal" data-target="#myModal6" data-lightbox="image" ><img src="images/sites/airport.jpg" alt="Standard Post with Image"></a>
 								</div>
 								<div class="entry-title">
 									<h2><a data-toggle="modal" data-target="#myModal6">MURTALA MOHAMMED AIRPORT 2 WAITING LOUNGE</a></h2>
@@ -317,6 +322,7 @@
 				</div>
 			</div>
 		</section><!-- #content end -->
+</div>
 
 
 

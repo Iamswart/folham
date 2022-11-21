@@ -38,9 +38,20 @@
 }
 
 section.folham-map {
-  width:100%;
+  width:50%;
   height: 100%;
   overflow:hidden;
+  flex: 1;
+}
+
+section#content {
+  flex: 1;
+}
+
+@media (max-width: 990px) {
+  section.folham-map {
+    width: 100%;
+  }
 }
 
 @media (min-width: 992px) {
@@ -75,4 +86,14 @@ section.folham-map {
   .carousel-inner .folham-bg img {
     height: 850px;
   }
+}
+
+.map-place {
+  display: flex;
+  width: 100%;
+
+}
+
+@media (max-width: 990px) {
+  .map-place {flex-direction: column;}
 }
