@@ -69,7 +69,7 @@
 													<iframe class="modal-iframe" style="width: 50%; height:100%" src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3964.743630767162!2d3.4272955137964787!3d6.426974326063381!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwMjUnMzcuMSJOIDPCsDI1JzQ2LjEiRQ!5e0!3m2!1sen!2sng!4v1668518299337!5m2!1sen!2sng" width="600" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 												</div>
 												<div class="sitemodal-inner">
-													<img class="d-none d-md-block" style="width: 100%" src="images/sites/eko-hotel.png" alt="Standard Post with Image">
+													<img class="d-none d-md-block" style="width: 100%" src="images/sites/Eko-hotel.png" alt="Standard Post with Image">
 													<div class="text-center map-description" >
 														<h3 >Description</h3>
                                             			<p>Adetokunbo Ademola Street in front of Eko Hotel.</p>
