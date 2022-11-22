@@ -84,7 +84,8 @@ section#content {
 
 @media (max-width: 768px){
   .carousel-inner .folham-bg img {
-    height: 850px;
+    height: 100vh;
+    object-fit: cover;
   }
 }
 
@@ -96,4 +97,74 @@ section#content {
 
 @media (max-width: 990px) {
   .map-place {flex-direction: column;}
+}
+
+@media (min-width: 576px) {
+.modal-dialog {
+    max-width: 90%;
+    margin: 1.75rem auto;
+    
+  }
+}
+
+
+.modal-body .fluid-width-video-wrapper {
+    width: 50%;
+    height: 100%;
+    position: initial;
+    padding: 0;
+}
+
+/* @media (max-width: 768px){
+  .modal-body .fluid-width-video-wrapper {
+    width: 100%;
+    height: 100%;
+    
+}
+} */
+
+.map-description h3{
+  text-align: right;
+  font-size: smaller;
+  margin-top: 20px; 
+  margin-bottom: 0px;
+}
+
+.map-description p{
+  text-align: right;
+  font-size: smaller;
+  margin-top: 0; 
+  margin-bottom: 0;
+}
+
+.sitemodal-inner {
+  overflow-y: auto;
+  flex: 1;
+}
+
+@media (max-width: 768px){
+  .sitemodal {
+    flex-direction: column;
+    overflow-y: auto;
+  }
+  .modal-iframe {
+    height: 50% !important;
+    width: 100% !important;
+  }
+  .map-description{
+    position: absolute;
+    top: 220px;
+    padding-bottom: 100px;
+    
+  }
+  .map-description h3{
+    text-align: left !important;
+  }
+  .map-description p{
+    text-align: left !important;
+  }
+
+}
+@media (max-width: 768px){
+  
 }
