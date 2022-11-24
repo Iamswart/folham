@@ -321,7 +321,7 @@
 													<img class="d-none d-md-block" style="width: 100%" src="images/sites/airport.jpg" alt="Standard Post with Image">
 													<div class="text-center map-description" >
                                             			<h3 class="">Description</h3>
-                                            			<p >The retina is strategically positioned facing outward towards the entrance of the final departure lounge of the MMA2, Ikeja Airport. Equipped with P4 modules you are guaranteed crisp and clear picture and video quality. The positioning and the sheer size of the board ensures visibility from practically everywhere within the final departure lounge. The Retina is also visible from the VIP lounge.</p>
+                                            			<p >The retina is strategically positioned facing outward towards the entrance of the final departure lounge of the MMA2, Ikeja Airport. Equipped with P4 modules you are guaranteed crisp and clear picture and video quality. The positioning and the sheer size of the board ensures visibility from practically everywhere within the final departure lounge. The Retina is also visible from the VIP lounge.The retina is strategically positioned facing outward towards the entrance of the final departure lounge of the MMA2, Ikeja Airport. Equipped with P4 modules you are guaranteed crisp and clear picture and video quality. The positioning and the sheer size of the board ensures visibility from practically everywhere within the final departure lounge. The Retina is also visible from the VIP lounge.</p>
                                             		</div>
 												</div>
 											</div>
