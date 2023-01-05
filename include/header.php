@@ -28,7 +28,7 @@
 	<title>Folham Limited</title>
 	<link rel="shortcut icon" type="image/jpg" href="images/favicon.ico"/>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-	<script src="jquery/jquery.js"></script>
+	<!-- <script src="jquery/jquery.js"></script> -->
 	<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
 	
@@ -53,7 +53,7 @@
 							<!-- <a href="index.html" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="images/logo.png" alt="Canvas Logo"></a>
 							<a href="index.html" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="images/logo@2x.png" alt="Canvas Logo"></a> -->
 							
-							<a href="index" class="standard-logo" style="height: 50px;" ><img src="images/folham-logo.png" alt="Folham"></a>
+							<a href="index" class="standard-logo" style="height: 30px;" ><img src="images/folham-logo.png" alt="Folham"></a>
 							<!-- <a href="index.html" class=" logo-text" ><div>Macrotel</div></a> -->
 						</div><!-- #logo end -->
 

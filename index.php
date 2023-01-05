@@ -2,57 +2,27 @@
 <?php include "include/navbar.php"; ?>
 						
 
-						<!-- <form class="top-search-form" action="search.html" method="get">
-							<input type="text" name="q" class="form-control" value="" placeholder="Type &amp; Hit Enter.." autocomplete="off">
-						</form>
-
-					</div>
-				</div>
-			</div>
-			<div class="header-wrap-clone"></div> -->
+			<div class="header-wrap-clone"></div> 
 		</header><!-- #header end -->
 		<section id="slider" >
 			<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
 			<div class="carousel-inner">
 				<div class="carousel-item folham-bg active">
-				<img class="d-block w-100" src="images/slider/swiper/folham-bg3.png" alt="First slide">
+				<video class="img-fluid" autoplay loop muted>
+                    <source src="images/video/homepage.mp4" type="video/mp4" />
+                </video>
 				<div class="carousel-caption">
 					<h1  class="" style="color: #ffffff;" >INNOVATIVE, EFFICIENT & PROFESSIONAL</h1>
 					<p class=""  style="color: #ffffff;">We are an innovative company bounded by top-notch professionalism and driven to deliver quality products/services.</p>
 					<div class="">
-					<a href="#" data-offset="120" class="btn btn-success">Explore our sites <span class="ml-2 fas fa-long-arrow-right"></span></a>
+					<!-- <a href="#" data-offset="120" class="btn btn-success">Explore our sites <span class="ml-2 fas fa-long-arrow-right"></span></a>
+                 -->
+                 <a href="#" data-offset="120" class="button button-border button-white button-light button-large button-rounded text-right m-0"><span>Explore our sites</span> <i class="icon-angle-right"></i></a>
 					</div>
 				</div>
 				</div>
-				<div class="carousel-item folham-bg">
-				<img class="d-block w-100" src="images/slider/swiper/folham-bg1.png" alt="Second slide">
-				<div class="carousel-caption" >
-					<h1  class="" style="color: #ffffff;">INNOVATIVE, EFFICIENT & PROFESSIONAL</h1>
-					<p class=""   style="color: #ffffff;">We are an innovative company bounded by top-notch professionalism and driven to deliver quality products/services.</p>
-					<div class="">
-					<a href="#" data-offset="120" class="btn btn-success">Explore our sites <span class="ml-2 fas fa-long-arrow-right"></span></a>
-					</div>
-				</div>
-				</div>
-				<div class="carousel-item folham-bg">
-				<img class="d-block w-100" src="images/slider/swiper/folham-bg2.png" alt="Third slide">
-				<div class="carousel-caption">
-					<h1  class="" style="color: #ffffff;">INNOVATIVE, EFFICIENT & PROFESSIONAL</h1>
-					<p class=""   style="color: #ffffff;">We are an innovative company bounded by top-notch professionalism and driven to deliver quality products/services.</p>
-					<div class="">
-					<a href="#" data-offset="120" class="btn btn-success">Explore our sites <span class="ml-2 fas fa-long-arrow-right"></span></a>
-					</div>
-				</div>
-				</div>
+				
 			</div>
-			<a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-				<span class="sr-only">Previous</span>
-			</a>
-			<a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-				<span class="carousel-control-next-icon" aria-hidden="true"></span>
-				<span class="sr-only">Next</span>
-			</a>
 			</div>
 		</section>
 
@@ -73,7 +43,7 @@
 									<div class="text">
 									 <!-- <h1 style="color: #ffffff;">BILLBOARDS</h1> -->
 									 <!--Our Out Of Home Formats are strategically placed nationwide reaching our clients target audience efficiently and effectively. -->
-									 <a href="404" data-offset="120" class="btn btn-success">Learn more</a>
+									 <a href="services" data-offset="120" class="btn btn-success">Learn more</a>
 									</div>
 								</div>
 								</div>
@@ -90,7 +60,7 @@
 									<div class="text">
 										<!-- <h1 style="color: #ffffff;">MEDIA BUYING</h1>
 										We consult for brands looking at changing their entire brand outlook as well as implementing brand activation campaigns for our clients. -->
-									    <a href="404" data-offset="120" class="btn btn-success">Learn more</a>
+									    <a href="services" data-offset="120" class="btn btn-success">Learn more</a>
 									</div>
 								</div>
 								</div>
@@ -107,7 +77,7 @@
 									<div class="text"> 
 										<!-- <h1 style="color: #ffffff;">BRANDING &amp; ACTIVATIONS</h1>
 										We believe in delivering value hence our utmost investment in our clients campaign process from inception to end. -->
-									    <a href="404" data-offset="120" class="btn btn-success">Learn more</a>
+									    <a href="services" data-offset="120" class="btn btn-success">Learn more</a>
 									</div>
 								</div>
 								</div>
@@ -124,7 +94,7 @@
 									<div class="text">
 										<!-- <h1 style="color: #ffffff;">CAMPAIGN DEVELOPMENT</h1>
 										 Our Out Of Home Formats are strategically placed nationwide reaching our clients target audience efficiently and effectively. -->
-										 <a href="404" data-offset="120" class="btn btn-success">Learn more</a>
+										 <a href="services" data-offset="120" class="btn btn-success">Learn more</a>
 										</div>
 								</div>
 								</div>
@@ -188,22 +158,22 @@
 						<h4 >Our Projects</h4>
 					</div>
 
-					<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+					<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="1000">
 					<div class="carousel-inner">
-						<div class="carousel-item active">
+						<div class="carousel-item showcase active" >
 						<img class="d-block w-100" src="images/sites/Eko-hotel.png" alt="Third slide">
 						</div>
-						<div class="carousel-item">
-						<img class="d-block w-100" src="images/sites/oniru3.png" alt="Third slide">
+						<div class="carousel-item showcase" >
+						<img class="d-block w-100" src="images/sites/aboyadecole.JPG" alt="Third slide">
 						</div>
-						<div class="carousel-item">
-						<img class="d-block w-100" src="images/sites/airport.jpg" alt="First slide">
+						<div class="carousel-item showcase" >
+						<img class="d-block w-100" src="images/sites/Marina.JPG" alt="First slide">
 						</div>
-						<div class="carousel-item">
-						<img class="d-block w-100" src="images/sites/akinadesola.png" alt="Second slide">
+						<div class="carousel-item showcase" >
+						<img class="d-block w-100" src="images/sites/oyo/old-tollgate3.png" alt="Second slide">
 						</div>
-						<div class="carousel-item">
-						<img class="d-block w-100" src="images/sites/ilupeju.jpg" alt="Third slide">
+						<div class="carousel-item showcase" >
+						<img class="d-block w-100" src="images/sites/ogun/abeokuta2.png" alt="Third slide">
 						</div>
 					</div>
 					<!-- <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -216,17 +186,6 @@
 					</a> -->
 					</div>
 
-					<!-- <div id="oc-clients" class="owl-carousel image-carousel carousel-widget" data-margin="60" data-loop="true" data-nav="false" data-autoplay="2000" data-pagi="false" data-items-xs="2" data-items-sm="3" data-items-md="4" data-items-lg="5" data-items-xl="6">
-
-						<div class="oc-item"><a href="#"><img src="images/sites/airport.jpg" alt="Clients"></a></div>
-						<div class="oc-item"><a href="#"><img src="images/sites/airport.jpg" alt="Clients"></a></div>
-						<div class="oc-item"><a href="#"><img src="images/sites/airport.jpg" alt="Clients"></a></div>
-						<div class="oc-item"><a href="#"><img src="images/sites/airport.jpg" alt="Clients"></a></div>
-						<div class="oc-item"><a href="#"><img src="images/sites/airport.jpg" alt="Clients"></a></div>
-					
-						
-
-					</div> -->
 
 
 				</div>
@@ -241,15 +200,15 @@
 
 					<ul class="clients-grid grid-2 grid-sm-3 grid-md-5 mb-0">
 						<li class="grid-item"><img src="images/clients/airtel.png" alt="Clients"></li>
-						<li class="grid-item"><img src="images/clients/accessbank.png" alt="Clients"></li>
-						<li class="grid-item"><img src="images/clients/wemabank.png" alt="Clients"></li>
-						<li class="grid-item"><img src="images/clients/kuda.png" alt="Clients"></li>
-						<li class="grid-item"><img src="images/clients/gtbank.png" alt="Clients"></li>
 						<li class="grid-item"><img src="images/clients/fcmb.png" alt="Clients"></li>
+						<li class="grid-item"><img src="images/clients/wemabank.png" alt="Clients"></li>
+						<li class="grid-item"><img src="images/clients/gtbank.png" alt="Clients"></li>
 						<li class="grid-item"><img src="images/clients/mtn.png" alt="Clients"></li>
+						<li class="grid-item"><img src="images/clients/accessbank.png" alt="Clients"></li>
 						<li class="grid-item"><img src="images/clients/axa.png" alt="Clients"></li>
+						<li class="grid-item"><img src="images/clients/kuda.png" alt="Clients"></li>
 						<li class="grid-item"><img src="images/clients/NB.png" alt="Clients"></li>
-						<li class="grid-item"><img src="images/clients/diageo.png" alt="Clients"></li>
+						<li class="grid-item"><img src="https://getlogo.net/wp-content/uploads/2021/05/dstv-logo-vector.png" alt="Clients"></li>
 					</ul>
 
 

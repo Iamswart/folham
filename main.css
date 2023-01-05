@@ -87,6 +87,16 @@ section#content {
     height: 100vh;
     object-fit: cover;
   }
+
+  .carousel-inner .folham-bg video {
+    height: 100vh;
+    object-fit: cover;
+  }
+
+  #page-title background-image {
+    height: 100vh;
+    object-fit: cover;
+  };
 }
 
 .map-place {
@@ -167,7 +177,20 @@ section#content {
     text-align: left !important;
   }
 
-}
-@media (max-width: 768px){
   
+
 }
+@media (max-width: 990px){
+  .about-image {
+    margin-bottom: 20px !important;
+  }
+}
+
+/* .other-caption {
+  top: 300px;
+  bottom: auto;
+}
+
+.ourstory-bg{
+  height: 400px;
+} */
