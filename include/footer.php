@@ -71,7 +71,6 @@
 
 	<!-- Footer Scripts
 	============================================= -->
-	<script src="main.js"></script>
 	<script src="js/functions.js"></script>
 
 </body>
