@@ -18,7 +18,7 @@
 			<div class="container clearfix">
 				<h1>Our Team</h1>
 				<ol class="breadcrumb">
-				<h1>List of People who matter in Our Company</h1>
+				<h1>Executives member of the company</h1>
 					
 				</ol>
 			</div>
@@ -36,8 +36,8 @@
 					<div class="col-md-7 col-padding">
 						<div>
 							<div class="heading-block">
-								<span class="before-heading color">CHAIRMAN</span>
 								<h3>Chief Hamzart Ajisola Olamuyiwa (BSc, MBA, FRPA)</h3>
+								<span class="before-heading color">CHAIRMAN</span>
 							</div>
 
 							<div class="row col-mb-50">
@@ -61,8 +61,9 @@
 					<div class="col-md-7 col-padding" style="background-color: #F5F5F5;">
 						<div>
 							<div class="heading-block">
-								<span class="before-heading color">MANAGING DIRECTOR</span>
+								
 								<h3>Chief Olaotan Olamuyiwa (BSc, MSc, ITIL, SAP Solution Architect)</h3>
+								<span class="before-heading color">MANAGING DIRECTOR</span>
 							</div>
 
 							<div class="row col-mb-50">
@@ -84,8 +85,9 @@
 					<div class="col-md-7 col-padding">
 						<div>
 							<div class="heading-block">
-								<span class="before-heading color">HEAD OF OPERATIONS</span>
+								
 								<h3>Oluwatayo Oredugba (B.A., MCITP, PMP)</h3>
+								<span class="before-heading color">HEAD OF OPERATIONS</span>
 							</div>
 
 							<div class="row col-mb-50">
@@ -108,8 +110,9 @@
 					<div class="col-md-7 col-padding" style="background-color: #F5F5F5;">
 						<div>
 							<div class="heading-block">
-								<span class="before-heading color">HEAD OF SALES</span>
+								
 								<h3>Anna Caiafas</h3>
+								<span class="before-heading color">HEAD OF SALES</span>
 							</div>
 
 							<div class="row col-mb-50">

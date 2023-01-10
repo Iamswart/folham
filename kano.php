@@ -34,7 +34,7 @@
 		
 		
 		
-		<section id="content" style=" height: 500px; overflow-y: auto;">
+		<section id="content" class="site-page" style=" height: 500px; overflow-y: auto;">
 			<div class="content-wrap">
 				<div class="container clearfix">
 					<!-- Posts
@@ -42,16 +42,17 @@
 					
 					<div id="posts" class="post-grid row grid-container gutter-30" data-layout="fitRows">
 						<div class="entry col-sm-6 ">
-							<div class="grid-inner">
-								<div class="entry-image clearfix">
+							<div class="grid-inner site-box">
+								<div class="entry-image site-image">
                                 <a data-toggle="modal" data-target="#myModal4" data-lightbox="image" ><img src="images/sites/kano/Beirut-Road.jpg" alt="Standard Post with Image"></a>
 								</div>
-								<div class="entry-title">
-									<h2><a data-toggle="modal" data-target="#myModal4">KANO WALLDRAPE: BEIRUT ROAD BY BELLO ROUNDABOUT</a></h2>
-								</div>
+								
+									<h4 class="site-name"><a data-toggle="modal" data-target="#myModal4">KANO WALLDRAPE: BEIRUT ROAD BY BELLO ROUNDABOUT</a></h4>
+								
 								<div class="entry-meta">
-									<ul>
-										<li><i class="icon-line2-frame"></i> 14m X 15m sq ft</li>
+									<ul class="site-properties">
+										<li><i class="icon-line2-frame" style="color: #999;"></i> 14m X 15m sq ft</li>
+										<li><i class="fa fa-car" style="color: #999;"></i> 450000</li>
 									</ul>
 								</div>
 							</div>
@@ -60,7 +61,7 @@
 									<div class="modal-body">
 										<div class="modal-content">
 											<div class="modal-header">
-												<h4 class="modal-title" id="myModalLabel">KANO WALLDRAPE: BEIRUT ROAD BY BELLO ROUNDABOUT </h4>
+												<h4 class="modal-title" id="myModalLabel">KANO WALLDRAPE: BEIRUT ROAD BY BELLO ROUNDABOUT <span><a href="getaquote" target="blank"><button type="button" class="btn btn-info" >Get a Quote</button></a></span></h4>
 												<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 											</div>
 											<div class="modal-body">
@@ -87,16 +88,17 @@
 						</div>
 						
 						<div class="entry col-sm-6" >
-							<div class="grid-inner">
-								<div class="entry-image">
+							<div class="grid-inner site-box">
+								<div class="entry-image site-image">
 									<a data-toggle="modal" data-target="#myModal" data-lightbox="image"><img src="images/sites/kano/bata.jpg" alt="Standard Post with Image"></a>
 								</div>
-								<div class="entry-title">
-									<h2><a data-toggle="modal" data-target="#myModal">KANO ROOFTOP: AT BATA YAN FATA MARKET FTF AIRPORT</a></h2>
-								</div>
+								
+									<h4 class="site-name"><a data-toggle="modal" data-target="#myModal">KANO ROOFTOP: AT BATA YAN FATA MARKET FTF AIRPORT</a></h4>
+								
 								<div class="entry-meta">
-									<ul>
-										<li><i class="icon-line2-frame"></i> 4m X 13m sq ft</li>
+									<ul class="site-properties">
+										<li><i class="icon-line2-frame" style="color: #999;"></i> 4m X 13m sq ft</li>
+										<li><i class="fa fa-car" style="color: #999;"></i> 450000</li>
 									</ul>
 								</div>
 							</div>
@@ -105,7 +107,7 @@
 									<div class="modal-body">
 										<div class="modal-content">
 											<div class="modal-header">
-												<h4 class="modal-title" id="myModalLabel">KANO ROOFTOP: AT BATA YAN FATA MARKET FTF AIRPORT</h4>
+												<h4 class="modal-title" id="myModalLabel">KANO ROOFTOP: AT BATA YAN FATA MARKET FTF AIRPORT <span><a href="getaquote" target="blank"><button type="button" class="btn btn-info" >Get a Quote</button></a></span></h4>
 												<button type="button" class="close" data-dismiss="modal" >&times;</button>
 											</div>
 											<div class="modal-body">
@@ -118,7 +120,7 @@
 														<div class="text-center map-description" >
 															<h3 >Description</h3>
 												
-															<p>high pedestrian and vehicular traffic daily, this board is located in inside the popular and very busy Bata Market in Kano attracting high pedestrian and vehicular traffic due to the market and stalls around. It is the most accessible road now coming from the airport with access to SabonGari market and Fagge which is one of the mostly populous area in Kano</p>
+															<p>High pedestrian and vehicular traffic daily, this board is located in inside the popular and very busy Bata Market in Kano attracting high pedestrian and vehicular traffic due to the market and stalls around. It is the most accessible road now coming from the airport with access to SabonGari market and Fagge which is one of the mostly populous area in Kano.</p>
                                             			</div>
 													</div>
 												</div>

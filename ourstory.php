@@ -10,28 +10,38 @@
 			<div class="header-wrap-clone"></div>
 		</header><!-- #header end -->
 
-		<section id="page-title" class="page-title-parallax page-title-dark page-title-right include-header " style="padding: 250px 0; background-image: url('images/slider/swiper/folham-bg3.png'); background-size: cover; background-position: center center;" data-bottom-top="background-position:0px 440px;" data-top-bottom="background-position:0px -500px;">
+		<section id="slider" class="slider-element slider-parallax swiper_wrapper min-vh-60 min-vh-md-100 include-header">
+			<div class="slider-inner">
 
-			<!-- <div class="container">
+				<div class="swiper-container swiper-parent">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide dark">
+							<div class="container">
+								<div class="slider-caption slider-caption-left">
+									<h2 data-animate="fadeInUp" class="slider-text" style="font-size: 3.5em; color: #ffffff;">WHY FOLHAM?</h2>
+								</div>
+							</div>
+							<div class="swiper-slide-bg slider-img" style="background-image: url('images/sites/akinadesola.png');"></div>
+						</div>
+						
+						
+					</div>
+				</div>
+
+				<a href="#" data-scrollto="#content" data-offset="100" class="one-page-arrow dark"><i class="icon-angle-down infinite animated fadeInDown"></i></a>
+
+			</div>
+		</section>
+
+		<!-- <section id="page-title" class="page-title-parallax page-title-dark page-title-right include-header " style="padding: 250px 0; background-image: url('images/slider/swiper/folham-bg3.png'); background-size: cover; background-position: center center;" data-bottom-top="background-position:0px 440px;" data-top-bottom="background-position:0px -500px;">
+
+			<div class="container">
             <div class="slider-caption slider-caption-left">
 				<h1 style="font-size: 3.5em; color: #ffffff;">WHY <br> FOLHAM?</h1>
             </div>
 			</div>
-            <a href="#" data-scrollto="#content" data-offset="100" class="one-page-arrow dark"><i class="icon-angle-down infinite animated fadeInDown"></i></a> -->
+            <a href="#" data-scrollto="#content" data-offset="100" class="one-page-arrow dark"><i class="icon-angle-down infinite animated fadeInDown"></i></a>
 
-		</section>
-		<!-- <section id="slider" >
-			<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-			<div class="carousel-inner">
-				<div class="carousel-item folham-bg active ourstory-bg">
-				<img class="d-block w-100" src="images/slider/swiper/folham-bg3.png" alt="First slide">
-				<div class="carousel-caption text-left other-caption">
-					<h1  class="" style="color: #ffffff; font-size:3rem" >WHY FOLHAM?</h1>
-				</div>
-				</div>
-				
-			</div>
-			</div>
 		</section> -->
 
 		<!-- Content
@@ -48,7 +58,7 @@
 						<div class="col-lg-6 align-self-end">
 
 							<div class="position-relative overflow-hidden about-image" style="margin-bottom: 150px" >
-								<img src="images/about.jpg" data-animate="fadeInUp" data-delay="100" alt="Chrome">
+								<img src="images/lamppost.jpg" data-animate="fadeInUp" data-delay="100" alt="Chrome">
 							</div>
 							
 

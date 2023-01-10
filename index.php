@@ -1,4 +1,4 @@
-<?php include "include/header.php"; ?>
+<?php include "include/index_header.php"; ?>
 <?php include "include/navbar.php"; ?>
 						
 
@@ -155,10 +155,11 @@
 				<div class="container clearfix" style="margin-top: 50px;">
 
 					<div class="heading-block center">
-						<h4 >Our Projects</h4>
+						<h5 >Our Gallery</h5>
+						<h4>Take a look at outdoor media locations available to promote your brand.</h4>
 					</div>
 
-					<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="1000">
+					<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="1500">
 					<div class="carousel-inner">
 						<div class="carousel-item showcase active" >
 						<img class="d-block w-100" src="images/sites/Eko-hotel.png" alt="Third slide">

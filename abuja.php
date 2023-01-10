@@ -34,7 +34,7 @@
 		
 		
 		
-		<section id="content" style=" height: 500px; overflow-y: auto;">
+		<section id="content" class="site-page" style=" height: 500px; overflow-y: auto;">
 			<div class="content-wrap">
 				<div class="container clearfix">
 					<!-- Posts
@@ -43,8 +43,8 @@
 					<div id="posts" class="post-grid row grid-container gutter-30" data-layout="fitRows">
 
                     <div class="entry col-sm-6">
-							<div class="grid-inner">
-								<div class="entry-image clearfix">
+							<div class="grid-inner site-box">
+								<div class="entry-image site-image">
 									<div class="fslider" data-arrows="false" data-lightbox="gallery">
 										<div class="flexslider">
 											<div class="slider-wrap">
@@ -54,12 +54,13 @@
 										</div>
 									</div>
 								</div>
-								<div class="entry-title">
-									<h2><a data-toggle="modal" data-target="#myModal3">GARKI LED JUNCTION OF AHMADU BELLO WAY</a></h2>
-								</div>
+								
+									<h4 class="site-name"><a data-toggle="modal" data-target="#myModal3">GARKI LED JUNCTION OF AHMADU BELLO WAY</a></h4>
+								
 								<div class="entry-meta">
-									<ul>
-										<li><i class="icon-line2-frame"></i> 3m X 6m sq ft</li>
+									<ul class="site-properties">
+										<li><i class="icon-line2-frame" style="color: #999;"></i> 3m X 6m sq ft</li>
+										<li><i class="fa fa-car" style="color: #999;"></i> 450000</li>
 									</ul>
 								</div>
 							</div>
@@ -68,7 +69,7 @@
 									<div class="modal-body">
 										<div class="modal-content">
 											<div class="modal-header">
-												<h4 class="modal-title" id="myModalLabel">GARKI LED JUNCTION OF AHMADU BELLO WAY</h4>
+												<h4 class="modal-title" id="myModalLabel">GARKI LED JUNCTION OF AHMADU BELLO WAY <span><a href="getaquote" target="blank"><button type="button" class="btn btn-info" >Get a Quote</button></a></span></h4>
 												<button type="button" class="close" data-dismiss="modal" >&times;</button>
 											</div>
 											<div class="modal-body">
@@ -96,8 +97,8 @@
 						</div>
 
 						<div class="entry col-sm-6 ">
-							<div class="grid-inner">
-                            <div class="entry-image">
+							<div class="grid-inner site-box">
+                            <div class="entry-image site-image">
 									<div class="fslider" data-arrows="false" data-lightbox="gallery">
 										<div class="flexslider">
 											<div class="slider-wrap">
@@ -108,12 +109,13 @@
 										</div>
 									</div>
 								</div>
-								<div class="entry-title">
-									<h2><a data-toggle="modal" data-target="#myModal4">ABUJA – STATIC PORTRAIT: BY OLADIPO DIYA ROAD</a></h2>
-								</div>
+								
+									<h4 class="site-name"><a data-toggle="modal" data-target="#myModal4">ABUJA – STATIC PORTRAIT: BY OLADIPO DIYA ROAD</a></h4>
+								
 								<div class="entry-meta">
-									<ul>
-										<li><i class="icon-line2-frame"></i> 19m X 7m sq ft</li>
+									<ul class="site-properties">
+										<li><i class="icon-line2-frame"  style="color: #999;"></i> 19m X 7m sq ft</li>
+										<li><i class="fa fa-car" style="color: #999;"></i> 450000</li>
 									</ul>
 								</div>
 							</div>
@@ -122,7 +124,7 @@
 									<div class="modal-body">
 										<div class="modal-content">
 											<div class="modal-header">
-												<h4 class="modal-title" id="myModalLabel">ABUJA – STATIC PORTRAIT: BY OLADIPO DIYA ROAD </h4>
+												<h4 class="modal-title" id="myModalLabel">ABUJA – STATIC PORTRAIT: BY OLADIPO DIYA ROAD <span><a href="getaquote" target="blank"><button type="button" class="btn btn-info" >Get a Quote</button></a></span></h4>
 												<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 											</div>
 											<div class="modal-body">
@@ -149,16 +151,17 @@
 						</div>
 						
 						<div class="entry col-sm-6" >
-							<div class="grid-inner">
-								<div class="entry-image">
+							<div class="grid-inner site-box">
+								<div class="entry-image site-image">
 									<a data-toggle="modal" data-target="#myModal" data-lightbox="image"><img src="images/sites/abuja/Nicon.jpg" alt="Standard Post with Image"></a>
 								</div>
-								<div class="entry-title">
-									<h2><a data-toggle="modal" data-target="#myModal">WALLDRAPE – NICON HOUSE, MOHAMMADU BUHARI WAY</a></h2>
-								</div>
+								
+									<h4 class="site-name"><a data-toggle="modal" data-target="#myModal">WALLDRAPE – NICON HOUSE, MOHAMMADU BUHARI WAY</a></h4>
+								
 								<div class="entry-meta">
-									<ul>
-										<li><i class="icon-line2-frame"></i> 22m X 10m sq ft</li>
+									<ul class="site-properties">
+										<li><i class="icon-line2-frame" style="color: #999;"></i> 22m X 10m sq ft</li>
+										<li><i class="fa fa-car" style="color: #999;"></i> 450000</li>
 									</ul>
 								</div>
 							</div>
@@ -167,7 +170,7 @@
 									<div class="modal-body">
 										<div class="modal-content">
 											<div class="modal-header">
-												<h4 class="modal-title" id="myModalLabel">WALLDRAPE – NICON HOUSE, MOHAMMADU BUHARI WAY</h4>
+												<h4 class="modal-title" id="myModalLabel">WALLDRAPE – NICON HOUSE, MOHAMMADU BUHARI WAY <span><a href="getaquote" target="blank"><button type="button" class="btn btn-info" >Get a Quote</button></a></span></h4>
 												<button type="button" class="close" data-dismiss="modal" >&times;</button>
 											</div>
 											<div class="modal-body">

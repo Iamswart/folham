@@ -34,7 +34,7 @@
 		
 		
 		
-		<section id="content" style=" height: 500px; overflow-y: auto;">
+		<section id="content" class="site-page" style=" height: 500px; overflow-y: auto;">
 			<div class="content-wrap">
 				<div class="container clearfix">
 					<!-- Posts
@@ -43,8 +43,8 @@
 					<div id="posts" class="post-grid row grid-container gutter-30" data-layout="fitRows">
 
                     <div class="entry col-sm-6">
-							<div class="grid-inner">
-								<div class="entry-image clearfix">
+							<div class="grid-inner site-box">
+								<div class="entry-image site-image">
 									<div class="fslider" data-arrows="false" data-lightbox="gallery">
 										<div class="flexslider">
 											<div class="slider-wrap">
@@ -54,12 +54,13 @@
 										</div>
 									</div>
 								</div>
-								<div class="entry-title">
-									<h2><a data-toggle="modal" data-target="#myModal3">IBADAN - UNIPOLE: ALAKIA, ALONG IFE/IBADAN EXPRESS ROAD</a></h2>
-								</div>
+								
+									<h4 class="site-name"><a data-toggle="modal" data-target="#myModal3">IBADAN - UNIPOLE: ALAKIA, ALONG IFE/IBADAN EXPRESS ROAD</a></h4>
+							
 								<div class="entry-meta">
-									<ul>
-										<li><i class="icon-line2-frame"></i> 6m X 18m sq ft</li>
+									<ul class="site-properties">
+										<li><i class="icon-line2-frame" style="color: #999;"></i> 6m X 18m sq ft</li>
+										<li><i class="fa fa-car" style="color: #999;"></i> 450000</li>
 									</ul>
 								</div>
 							</div>
@@ -68,7 +69,7 @@
 									<div class="modal-body">
 										<div class="modal-content">
 											<div class="modal-header">
-												<h4 class="modal-title" id="myModalLabel">IBADAN - UNIPOLE: ALAKIA, ALONG IFE/IBADAN EXPRESS ROAD</h4>
+												<h4 class="modal-title" id="myModalLabel">IBADAN - UNIPOLE: ALAKIA, ALONG IFE/IBADAN EXPRESS ROAD <span><a href="getaquote" target="blank"><button type="button" class="btn btn-info" >Get a Quote</button></a></span></h4>
 												<button type="button" class="close" data-dismiss="modal" >&times;</button>
 											</div>
 											<div class="modal-body">
@@ -96,8 +97,8 @@
 						</div>
 
 						<div class="entry col-sm-6 ">
-							<div class="grid-inner">
-                            <div class="entry-image">
+							<div class="grid-inner site-box">
+                            <div class="entry-image site-image">
 									<div class="fslider" data-arrows="false" data-lightbox="gallery">
 										<div class="flexslider">
 											<div class="slider-wrap">
@@ -108,12 +109,13 @@
 										</div>
 									</div>
 								</div>
-								<div class="entry-title">
-									<h2><a data-toggle="modal" data-target="#myModal4">IBADAN – UNIPOLE: OLD TOLL GATE, FTFCHALLENGE, RING ROAD</a></h2>
-								</div>
+								
+									<h4 class="site-name"><a data-toggle="modal" data-target="#myModal4">IBADAN – UNIPOLE: OLD TOLL GATE, FTFCHALLENGE, RING ROAD</a></h4>
+								
 								<div class="entry-meta">
-									<ul>
-										<li><i class="icon-line2-frame"></i> 6m X 18m sq ft</li>
+									<ul class="site-properties">
+										<li><i class="icon-line2-frame" style="color: #999;"></i> 6m X 18m sq ft</li>
+										<li><i class="fa fa-car" style="color: #999;"></i> 450000</li>
 									</ul>
 								</div>
 							</div>
@@ -122,7 +124,7 @@
 									<div class="modal-body">
 										<div class="modal-content">
 											<div class="modal-header">
-												<h4 class="modal-title" id="myModalLabel">IBADAN – UNIPOLE: OLD TOLL GATE, FTFCHALLENGE, RING ROAD </h4>
+												<h4 class="modal-title" id="myModalLabel">IBADAN – UNIPOLE: OLD TOLL GATE, FTFCHALLENGE, RING ROAD <span><a href="getaquote" target="blank"><button type="button" class="btn btn-info" >Get a Quote</button></a></span></h4>
 												<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 											</div>
 											<div class="modal-body">

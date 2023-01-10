@@ -115,6 +115,15 @@ section#content {
     margin: 1.75rem auto;
     
   }
+  .quote-modal {
+    max-width: 50%;
+    margin: 1.75rem auto;
+    
+  }
+
+  .slider-img {
+    height: 95%;
+  }
 }
 
 
@@ -134,17 +143,21 @@ section#content {
 } */
 
 .map-description h3{
-  text-align: right;
+  text-align: left;
   font-size: smaller;
   margin-top: 20px; 
   margin-bottom: 0px;
+  margin-left: 10px;
+  
 }
 
 .map-description p{
-  text-align: right;
+  text-align: left;
   font-size: smaller;
   margin-top: 0; 
   margin-bottom: 0;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .sitemodal-inner {
@@ -194,3 +207,46 @@ section#content {
 .ourstory-bg{
   height: 400px;
 } */
+
+.site-box {
+    display: block;
+    background-color: #fff;
+    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 13%);
+    margin-bottom: 0;
+    cursor: pointer;
+    text-decoration: none;
+    height: 265px;
+    border-radius: 2px;
+}
+
+.site-name {
+ 
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  margin: 0 10px 0 0;
+  padding: 0 0 3px 10px;
+  color: #333;
+  text-decoration: none;
+  /* white-space: nowrap; */
+  /* overflow: hidden; */
+  /* float: none */
+}
+
+.site-image {
+  margin-bottom: 15px;
+}
+
+.site-properties li {
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 11px;
+  line-height: 11px;
+  color: #333;
+}
+
+
+.site-page::-webkit-scrollbar {
+  display: none;
+}

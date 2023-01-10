@@ -9,15 +9,27 @@
 			<div class="header-wrap-clone"></div>
 		</header><!-- #header end -->
 
-		<section id="page-title" class="page-title-parallax page-title-dark page-title-right include-header " style="padding: 250px 0; background-image: url('images/slider/swiper/folham-bg3.png'); background-size: cover; background-position: center center;" data-bottom-top="background-position:0px 440px;" data-top-bottom="background-position:0px -500px;">
+		<section id="slider" class="slider-element slider-parallax swiper_wrapper min-vh-60 min-vh-md-100 include-header">
+			<div class="slider-inner">
 
-			<!-- <div class="container">
-            <div class="slider-caption slider-caption-left">
-				<h1 style="font-size: 3.5em; color: #ffffff;">WHY <br> FOLHAM?</h1>
-            </div>
+				<div class="swiper-container swiper-parent">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide dark">
+							<div class="container">
+								<div class="slider-caption slider-caption-left">
+									<h2 data-animate="fadeInUp" class="slider-text" style="font-size: 3.5em; color: #ffffff;">SERVICES</h2>
+								</div>
+							</div>
+							<div class="swiper-slide-bg slider-img" style="background-image: url('images/sites/akinadesola.png');"></div>
+						</div>
+						
+						
+					</div>
+				</div>
+
+				<a href="#" data-scrollto="#content" data-offset="100" class="one-page-arrow dark"><i class="icon-angle-down infinite animated fadeInDown"></i></a>
+
 			</div>
-            <a href="#" data-scrollto="#content" data-offset="100" class="one-page-arrow dark"><i class="icon-angle-down infinite animated fadeInDown"></i></a> -->
-
 		</section>
 
 		<!-- Content
@@ -32,13 +44,56 @@
 								<h3>Join our community of  <span>  187 happy clients</span><br> and be satisfied.</h3>
 							</div>
 							<div class="col-12 col-lg-auto mt-4 mt-lg-0">
-								<a href="" class="button button-large button-circle m-0">Get a Quote</a>
+								<a href="" class="button button-large button-circle m-0" data-toggle="modal" data-target="#myModal">Get a Quote</a>
+
+								<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog quote-modal">
+									<div class="modal-body">
+										<div class="modal-content">
+											<div class="modal-header">
+												<h4 class="modal-title" id="myModalLabel">BE PART OF OUR BUSINESS</h4>
+												<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+											</div>
+											<div class="modal-body">
+											<div>
+											<h4 class="text-uppercase ls1">GET A QUOTE</h4>
+											<form action="sendquote.php" class="row mb-0" style="max-width: 600px;" method="post">
+												<div class="col-12 form-group">
+													<label for="" class="text-capitalize font-weight-semibold">Full Name:</label>
+													<input type="text" name="name" value="" class="sm-form-control" required>
+												</div>
+												<div class="col-12 form-group">
+													<label for="" class="text-capitalize font-weight-semibold">Email:</label>
+													<input type="email" name="email" value="" class="email sm-form-control" required>
+												</div>
+												<div class="col-12 form-group">
+													<label for="" class="text-capitalize font-weight-semibold">Phone</label>
+													<input type="texr" name="phone" value="" class="sm-form-control" required>
+												</div>
+												<div class="col-12 form-group">
+													<label for="" class="text-capitalize font-weight-semibold">Message</label>
+													<textarea class="sm-form-control" name="message" rows="6" cols="30" required></textarea>
+												</div>
+												<div class="col-12 form-group">
+													<button type="submit" class="button button-rounded button-small button-dark m-0" value="submit" name="submit">Get a Quote</button>
+												</div>
+												
+											</form>
+											</div>
+											</div>
+											<div class="modal-footer">
+												<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+										</div>
+									</div>
+								</div>
+							</div>
 							</div>
 						</div>
 					</div>
 				</div>
+				</div>
 
-				<div class="line"></div>
+				<!-- <div class="line"></div> -->
 
                 <div class="row align-items-stretch">
 
@@ -183,6 +238,7 @@
 				
 
 			</div>
-		</section><!-- #content end -->
+		</section>
+		
 
 <?php include "include/footer.php"; ?>

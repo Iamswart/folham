@@ -14,17 +14,28 @@ include "include/header.php";
 
 
 
-<section id="page-title" class="page-title-parallax page-title-dark page-title-right include-header " style="padding: 250px 0; background-image: url('images/slider/swiper/folham-bg3.png'); background-size: cover; background-position: center center;" data-bottom-top="background-position:0px 440px;" data-top-bottom="background-position:0px -500px;">
+<section id="slider" class="slider-element slider-parallax swiper_wrapper min-vh-60 min-vh-md-100 include-header">
+			<div class="slider-inner">
 
-			<!-- <div class="container">
-            <div class="slider-caption slider-caption-left">
-				<h1 style="font-size: 3.5em; color: #ffffff;">WHY <br> FOLHAM?</h1>
-            </div>
+				<div class="swiper-container swiper-parent">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide dark">
+							<div class="container">
+								<div class="slider-caption slider-caption-left">
+									<h2 data-animate="fadeInUp" class="slider-text" style="font-size: 3.5em; color: #ffffff;">CONTACT US</h2>
+								</div>
+							</div>
+							<div class="swiper-slide-bg slider-img" style="background-image: url('images/sites/akinadesola.png');"></div>
+						</div>
+						
+						
+					</div>
+				</div>
+
+				<a href="#" data-scrollto="#content" data-offset="100" class="one-page-arrow dark"><i class="icon-angle-down infinite animated fadeInDown"></i></a>
+
 			</div>
-            <a href="#" data-scrollto="#content" data-offset="100" class="one-page-arrow dark"><i class="icon-angle-down infinite animated fadeInDown"></i></a> -->
-
-		</section>
-
+</section>
 
 
 <section id="content">
@@ -40,27 +51,27 @@ include "include/header.php";
 								<h3>Send us an Email</h3>
 							</div>
 
-							<div class="form-widget">
+							<div class="form">
 
-								<div class="form-result"></div>
+								<!-- <div class="form-result"></div> -->
 
-								<form class="mb-0" id="template-contactform" name="template-contactform" action="process.php" method="post">
+								<form class="mb-0" action="process.php" method="post">
 
-									<div class="form-process">
+									<!-- <div class="form-process">
 										<div class="css3-spinner">
 											<div class="css3-spinner-scaler"></div>
 										</div>
-									</div>
+									</div> -->
 
 									<div class="row">
 										<div class="col-md-6 form-group">
 											<label for="name">Name <small>*</small></label>
-											<input type="text" id="name" name="name" value="" class="sm-form-control" required>
+											<input type="text" name="name" value="" class="sm-form-control" required>
 										</div>
 
 										<div class="col-md-6 form-group">
 											<label for="email">Email <small>*</small></label>
-											<input type="email" id="email" name="email" value="" class="email sm-form-control" required>
+											<input type="email" name="email" value="" class="email sm-form-control" required>
 										</div>
 
 										
@@ -69,26 +80,24 @@ include "include/header.php";
 
 										<div class="col-12 form-group">
 											<label for="subject">Subject <small>*</small></label>
-											<input type="text" id="subject" name="subject" value="" class="sm-form-control" required>
+											<input type="text" name="subject" value="" class="sm-form-control" required>
 										</div>
 
 										<div class="w-100"></div>
 
 										<div class="col-12 form-group">
 											<label for="message">Message <small>*</small></label>
-											<textarea class="sm-form-control" id="message" name="message" rows="6" cols="30" required></textarea>
+											<textarea class="sm-form-control" name="message" rows="6" cols="30" required></textarea>
 										</div>
 
-										<div class="col-12 form-group d-none">
+										<!-- <div class="col-12 form-group d-none">
 											<input type="text" id="botcheck" name="botcheck" value="" class="sm-form-control" />
-										</div>
+										</div> -->
 
-										<div class="col-12 form-group">
-											<button name="submit" type="submit" id="submit-button" tabindex="5" value="Submit" class="button button-3d m-0">Submit Comment</button>
-										</div>
+										<input class="button button-3d m-0" type="submit" name="submit" value="submit feedback">
 									</div>
 
-									<input type="hidden" name="prefix" value="">
+									
 
 								</form>
 							</div>
@@ -101,6 +110,7 @@ include "include/header.php";
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3963.8772762813114!2d3.3248781137968604!3d6.537179124820173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b8e6fbb093db9%3A0x448b67ddad71cb4!2sFolham%20(NIG)%20Limited!5e0!3m2!1sen!2sng!4v1669673251100!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						</div><!-- Google Map End -->
 					</div>
+					
 
 					<!-- Contact Info
 					============================================= -->

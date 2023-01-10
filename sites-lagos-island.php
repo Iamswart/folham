@@ -42,16 +42,16 @@
 					
 					<div id="posts" class="post-grid row grid-container gutter-30" data-layout="fitRows">
 						<div class="entry col-sm-6 ">
-							<div class="grid-inner">
-								<div class="entry-image clearfix">
+							<div class="grid-inner site-box">
+								<div class="entry-image site-image">
                                 <a data-toggle="modal" data-target="#myModal4" data-lightbox="image" ><img src="images/sites/Eko-hotel.png" alt="Standard Post with Image"></a>
 								</div>
-								<div class="entry-title">
-									<h2><a data-toggle="modal" data-target="#myModal4">Eko hotel road</a></h2>
-								</div>
+								<h4 class="site-name"><a data-toggle="modal" data-target="#myModal4">GANTRY LED: ALONG ADETOKUNBO ADEMOLA STREET BY EKO HOTEL</a></h4>
+								
 								<div class="entry-meta">
-									<ul>
-										<li><i class="icon-line2-frame"></i> 2m X 11m sq ft</li>
+									<ul class="site-properties">
+										<li><i class="icon-line2-frame" style="color: #999;"></i> 2m X 11m sq ft</li>
+										<li><i class="fa fa-car" style="color: #999;"></i> 100000</li>
 									</ul>
 								</div>
 							</div>
@@ -60,7 +60,7 @@
 									<div class="modal-body">
 										<div class="modal-content">
 											<div class="modal-header">
-												<h4 class="modal-title" id="myModalLabel">Eko hotel road </h4>
+												<h4 class="modal-title" id="myModalLabel">GANTRY LED: ALONG ADETOKUNBO ADEMOLA STREET BY EKO HOTEL </h4>
 												<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 											</div>
 											<div class="modal-body">
@@ -87,16 +87,16 @@
 						</div>
 						
 						<div class="entry col-sm-6" >
-							<div class="grid-inner">
-								<div class="entry-image">
+							<div class="grid-inner site-box">
+								<div class="entry-image site-image">
 									<a data-toggle="modal" data-target="#myModal" data-lightbox="image"><img src="images/sites/akinadesola.png" alt="Standard Post with Image"></a>
 								</div>
-								<div class="entry-title">
-									<h2><a data-toggle="modal" data-target="#myModal">Akin Adesola road</a></h2>
+								<div class="">
+									<h4 class="site-name"><a data-toggle="modal" data-target="#myModal">Akin Adesola road</a></h4>
 								</div>
 								<div class="entry-meta">
-									<ul>
-										<li><i class="icon-line2-frame"></i> 2m X 11m sq ft</li>
+									<ul class="site-properties">
+										<li><i class="icon-line2-frame" style="color: #999;"></i> 2m X 11m sq ft</li>
 									</ul>
 								</div>
 							</div>
@@ -135,8 +135,8 @@
 						</div>
 
 						<div class="entry col-sm-6">
-							<div class="grid-inner">
-								<div class="entry-image">
+							<div class="grid-inner site-box">
+								<div class="entry-image site-image">
 									<div class="fslider" data-arrows="false" data-lightbox="gallery">
 										<div class="flexslider">
 											<div class="slider-wrap">
@@ -147,12 +147,12 @@
 										</div>
 									</div>
 								</div>
-								<div class="entry-title">
-									<h2><a data-toggle="modal" data-target="#myModal3">DRIVEWAY ENTRANCE FTT MOIST BEACH</a></h2>
+								<div class="">
+									<h4 class="site-name"><a data-toggle="modal" data-target="#myModal3">DRIVEWAY ENTRANCE FTT MOIST BEACH</a></h4>
 								</div>
 								<div class="entry-meta">
-									<ul>
-										<li><i class="icon-line2-frame"></i> 2m X 8m sq ft</li>
+									<ul class="site-properties">
+										<li><i class="icon-line2-frame" style="color: #999;"></i> 2m X 8m sq ft</li>
 									</ul>
 								</div>
 							</div>
@@ -189,16 +189,16 @@
 						</div>
 
 						<div class="entry col-sm-6">
-							<div class="grid-inner">
-								<div class="entry-image">
+							<div class="grid-inner site-box">
+								<div class="entry-image site-image">
                                 <a data-toggle="modal" data-target="#myModal2" data-lightbox="image"><img src="images/sites/eko.png" alt="Standard Post with Image"></a>
 								</div>
-								<div class="entry-title">
-									<h2><a data-toggle="modal" data-target="#myModal2">ALONG BROAD STREET FTT APONGBON (BEHIND UBA HOUSE)</a></h2>
+								<div class="">
+									<h4 class="site-name"><a data-toggle="modal" data-target="#myModal2">ALONG BROAD STREET FTT APONGBON (BEHIND UBA HOUSE)</a></h4>
 								</div>
 								<div class="entry-meta">
-									<ul>
-										<li><i class="icon-line2-frame"></i> 5m X 8m sq ft</li>
+									<ul class="site-properties">
+										<li><i class="icon-line2-frame" style="color: #999;"></i> 5m X 8m sq ft</li>
 									</ul>
 								</div>
 							</div>
@@ -239,16 +239,16 @@
 
 
                         <div class="entry col-sm-6">
-							<div class="grid-inner">
-                                <div class="entry-image clearfix">
+							<div class="grid-inner site-box">
+                                <div class="entry-image site-image clearfix">
                                 <a data-toggle="modal" data-target="#myModal6" data-lightbox="image" ><img src="images/sites/osapa.jpg" alt="Standard Post with Image"></a>
 								</div>
-								<div class="entry-title">
-									<h2><a data-toggle="modal" data-target="#myModal6">LED- ETERNA FILLING STATION</a></h2>
+								<div class="">
+									<h4 class="site-name"><a data-toggle="modal" data-target="#myModal6">LED- ETERNA FILLING STATION</a></h4>
 								</div>
 								<div class="entry-meta">
-									<ul>
-										<li><i class="icon-line2-frame"></i> 3m X 12m sq ft</li>
+									<ul class="site-properties">
+										<li><i class="icon-line2-frame" style="color: #999;"></i> 3m X 12m sq ft</li>
 									</ul>
 								</div>
 							</div>
@@ -286,16 +286,16 @@
 
 
 						<div class="entry col-sm-6 ">
-							<div class="grid-inner">
-								<div class="entry-image">
+							<div class="grid-inner site-box">
+								<div class="entry-image site-image">
                                 	<a data-toggle="modal" data-target="#myModal5" data-lightbox="image"><img src="images/sites/folham2.jpeg" alt="Standard Post with Image"></a>
 								</div>
-								<div class="entry-title">
-									<h2><a data-toggle="modal5" data-target="#myModal">ALONG OBA IDOWU ABIODUN ONIRU ROAD</a></h2>
+								<div class="">
+									<h4 class="site-name"><a data-toggle="modal5" data-target="#myModal">ALONG OBA IDOWU ABIODUN ONIRU ROAD</a></h4>
 								</div>
 								<div class="entry-meta">
-									<ul>
-										<li><i class="icon-line2-frame"></i> 3m X 9m sq ft</li>
+									<ul class="site-properties">
+										<li><i class="icon-line2-frame" style="color: #999;"></i> 3m X 9m sq ft</li>
 									</ul>
 								</div>
 							</div>
@@ -340,7 +340,7 @@
 
 					<!-- Pagination
 					============================================= -->
-					<ul class="pagination mt-5 pagination-circle justify-content-center">
+					<!-- <ul class="pagination mt-5 pagination-circle justify-content-center">
 						<li class="page-item disabled"><a class="page-link" href="#"><i class="icon-angle-left"></i></a></li>
 						<li class="page-item active"><a class="page-link" href="#">1</a></li>
 						<li class="page-item"><a class="page-link" href="#">2</a></li>
@@ -348,7 +348,7 @@
 						<li class="page-item"><a class="page-link" href="#">4</a></li>
 						<li class="page-item"><a class="page-link" href="#">5</a></li>
 						<li class="page-item"><a class="page-link" href="#"><i class="icon-angle-right"></i></a></li>
-					</ul>
+					</ul> -->
 
 				</div>
 			</div>

@@ -28,10 +28,10 @@
 											<a class="menu-link" href="#"><div><i class="icon-location"></i>Lagos</div></a>
 											<ul class="sub-menu-container">
 												<li class="menu-item">
-													<a class="menu-link" href="sites-lagos-island"><div><i class="icon-location"></i>Lagos Island</div></a>
+													<a class="menu-link" href="lagos-island"><div><i class="icon-location"></i>Lagos Island</div></a>
 												</li>
 												<li class="menu-item">
-													<a class="menu-link" href="sites-lagos-mainland"><div><i class="icon-location"></i>Lagos Mainland</div></a>
+													<a class="menu-link" href="lagos-mainland"><div><i class="icon-location"></i>Lagos Mainland</div></a>
 												</li>
 											</ul>
 										</li>

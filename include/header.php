@@ -42,7 +42,7 @@
 
 		<!-- Header
 		============================================= -->
-		<header id="header"  data-sticky-class="not-dark">
+		<header id="header" class="full-header transparent-header"  data-sticky-class="not-dark">
 			<div id="header-wrap">
 				<div class="container">
 					<div class="header-row">
@@ -53,7 +53,7 @@
 							<!-- <a href="index.html" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="images/logo.png" alt="Canvas Logo"></a>
 							<a href="index.html" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="images/logo@2x.png" alt="Canvas Logo"></a> -->
 							
-							<a href="index" class="standard-logo" style="height: 30px;" ><img src="images/folham-logo.png" alt="Folham"></a>
+							<a href="index" class="standard-logo" style="height: 50px;" ><img src="images/folham-logo.png" alt="Folham"></a>
 							<!-- <a href="index.html" class=" logo-text" ><div>Macrotel</div></a> -->
 						</div><!-- #logo end -->
 
